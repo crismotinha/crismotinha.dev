@@ -5,7 +5,7 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: public/crismotinha.github.io/posts
+  path: public/posts
   label: Post
   create: documents
   match: "*"
