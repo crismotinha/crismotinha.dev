@@ -3,7 +3,6 @@ author = "Cris Motinha"
 categories = []
 date = 2021-02-15T03:00:00Z
 description = ""
-draft = true
 image = ""
 title = "To Do - Prometo que vou terminar"
 type = "post"
