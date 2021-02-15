@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:crismotinha/crismotinha.github.io.git
 	branch = master
+[submodule "themes/northendlab-hugo"]
+    path = themes/northendlab-hugo
+    url = git@github.com:gethugothemes/northendlab-hugo.git
