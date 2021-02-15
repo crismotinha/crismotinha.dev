@@ -30,7 +30,7 @@ copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights R
 description = "My personal website"
 google_tag_manager = ""
 home = "Home"
-logo = "images/logo.svg"
+logo = "/images/logo.png"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "/images/banner.png"
