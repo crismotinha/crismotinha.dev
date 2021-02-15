@@ -45,8 +45,8 @@ name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "tools"
-name = "tools"
+URL = "posts"
+name = "Posts"
 weight = 2
 
 # footer menu
@@ -56,8 +56,8 @@ name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "tools"
-name = "tools"
+URL = "posts"
+name = "Posts"
 weight = 2
 
 
