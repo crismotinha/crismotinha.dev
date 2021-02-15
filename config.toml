@@ -1,6 +1,6 @@
 baseURL = "https://crismotinha.github.io"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "pt-br"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
@@ -27,20 +27,20 @@ home = ["HTML", "AMP", "RSS", "JSON"]
 author = "Cris Motinha"
 contact_form_action = "#"
 copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
-description = "This is meta description"
+description = "My personal website"
 google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+image = "/images/banner.png"
 title = "Hi, I'm Cris Motinha"
 [params.cookies]
 enable = true
 expire_days = 2
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
-enable = true
+enable = false
 image = "images/hugo-muscot.svg"
 title = "Get the best hugo templates"
 [params.cta.button]
@@ -67,14 +67,8 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
 icon = "ti-github"
-link = "#"
+link = "https://github.com/crismotinha"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "https://www.linkedin.com/in/cristina-motinha"
