@@ -24,7 +24,7 @@ weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
-author = "Themefisher"
+author = "Cris Motinha"
 contact_form_action = "#"
 copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 description = "This is meta description"
@@ -34,7 +34,7 @@ logo = "images/logo.svg"
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, I'm Cris Motinha"
 [params.cookies]
 enable = true
 expire_days = 2
