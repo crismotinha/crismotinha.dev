@@ -1,8 +1,7 @@
 ---
-title: "Contact Us"
-draft: false
-description : "this is meta description"
-image: "images/contact.svg"
----
+title: About Me
+description: ''
+image: "/images/about-pizza.png"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labor.
+---
+Software Engineer, Scrum Master, Food Technician and Pré-Commis Chef.
