@@ -4,10 +4,14 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: content/about
+  label: About
+  create: documents
+  match: "**/*"
 - type: document
   path: data/food.yml
   label: Food
-  match: "**/*"
 - type: document
   path: index.html
   label: Home Page
