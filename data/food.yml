@@ -1,4 +1,7 @@
+---
 foods:
-  - name: Food
-    description: hmm
-    image: "/images/foods/food1.png"
+- name: Chocolate birthday cake
+  description: Brigadeiro ("brazilian fudge balls") birthday cake for my friend José
+    Carlo's birthday. Three layers of chocolate cake, dark chocolate brigadeiro and
+    "white" brigadeiro fillings, and dark chocolate brigadeiros on top.
+  image: "/images/bolo-ze.jpg"
