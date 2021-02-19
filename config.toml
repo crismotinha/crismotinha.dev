@@ -6,8 +6,8 @@ summaryLength = "10"
 theme = "northendlab-hugo"
 title = "Cris Motinha"
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
+URL = "about"
+name = "About Me"
 weight = 1
 [[menu.footer]]
 URL = "posts"
