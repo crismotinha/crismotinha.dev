@@ -14,13 +14,17 @@ URL = "posts"
 name = "Posts"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
+URL = "about"
+name = "About Me"
 weight = 1
 [[menu.main]]
 URL = "posts"
 name = "Posts"
 weight = 2
+[[menu.main]]
+URL = "food"
+name = "Food"
+weight = 3
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]

@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<section class="section">
+    <div class="container">
+        <div class="card-columns">
+            {{ range $index, $elemen:= .Site.Data.food.foods }}
+                <div class="card border-0 shadow">
+                    <img src="{{ .image }}" alt="{{ .name | markdownify }}" class="card-img-top">
+                    <div class="card-body">
+                        <p class="h5">{{ .name | markdownify }}</p>
+                        <p class="card-subtitle text-muted" style="font-size: 15px;">{{ .description | markdownify }}</p>
+                        {{ if .link }}
+                            <a href="{{ .link }}" class="font-italic">Recipe</a>
+                        {{ end }}
+                    </div>
+                </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}

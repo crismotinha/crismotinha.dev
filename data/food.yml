@@ -1,0 +1,4 @@
+foods:
+  - name: Food
+    description: hmm
+    image: "/images/foods/food1.png"
