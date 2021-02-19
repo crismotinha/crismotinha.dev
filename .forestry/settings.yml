@@ -5,6 +5,10 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: data/food.yml
+  label: Food
+  match: "**/*"
+- type: document
   path: index.html
   label: Home Page
 - type: directory
@@ -14,13 +18,6 @@ sections:
   match: "*"
   templates:
   - post
-- type: directory
-  path: content/author
-  label: Author
-  create: documents
-  match: "**/*"
-  templates:
-  - author
 - type: directory
   path: content/contact
   label: Contact
