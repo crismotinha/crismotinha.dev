@@ -25,5 +25,4 @@ fields:
   label: type
   default: post
 pages:
-- content/posts/testando-o-layout-novo.md
 - content/posts/to-do-prometo-que-vou-terminar.md
